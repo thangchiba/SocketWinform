@@ -1,0 +1,11 @@
+C:\Users\pc023\source\repos\LearnSocketSIC\LearnSocketSIC\bin\Debug\LearnSocketSIC.exe.config
+C:\Users\pc023\source\repos\LearnSocketSIC\LearnSocketSIC\bin\Debug\LearnSocketSIC.exe
+C:\Users\pc023\source\repos\LearnSocketSIC\LearnSocketSIC\bin\Debug\LearnSocketSIC.pdb
+C:\Users\pc023\source\repos\LearnSocketSIC\LearnSocketSIC\obj\Debug\LearnSocketSIC.csproj.AssemblyReference.cache
+C:\Users\pc023\source\repos\LearnSocketSIC\LearnSocketSIC\obj\Debug\LearnSocketSIC.Client.resources
+C:\Users\pc023\source\repos\LearnSocketSIC\LearnSocketSIC\obj\Debug\LearnSocketSIC.Form1.resources
+C:\Users\pc023\source\repos\LearnSocketSIC\LearnSocketSIC\obj\Debug\LearnSocketSIC.Properties.Resources.resources
+C:\Users\pc023\source\repos\LearnSocketSIC\LearnSocketSIC\obj\Debug\LearnSocketSIC.csproj.GenerateResource.cache
+C:\Users\pc023\source\repos\LearnSocketSIC\LearnSocketSIC\obj\Debug\LearnSocketSIC.csproj.CoreCompileInputs.cache
+C:\Users\pc023\source\repos\LearnSocketSIC\LearnSocketSIC\obj\Debug\LearnSocketSIC.exe
+C:\Users\pc023\source\repos\LearnSocketSIC\LearnSocketSIC\obj\Debug\LearnSocketSIC.pdb
